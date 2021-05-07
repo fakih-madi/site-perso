@@ -375,8 +375,8 @@
                         <h2 class="action-title">Besoin d'une personne pour vos projets?</h2>
                         <p>Envie d'en savoir plus sur mon parcours professionnel?</p>
                         <ul>
-                            <li><a class="main-btn custom" href="#">télechargez mon cv</a></li>
-                            <li><a class="main-btn custom-2" href="#">Collaborer avec moi</a></li>
+                            <li><a class="main-btn custom" href="https://drive.google.com/file/d/1vob7tUnbqcdIbX3c_0accc-WK6O-4VF1/view?usp=sharing">télechargez mon cv</a></li>
+                            <!--<li><a class="main-btn custom-2" href="#">Collaborer avec moi</a></li>-->
                         </ul>
                     </div> <!-- call action content -->
                 </div>
