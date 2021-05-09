@@ -8,13 +8,14 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Portfolio de Madi Fakih étudiant en développement web et web mobile à la plateforme_ Marseille">
-    <meta name="keywords" content="Madi Fakih, Développeur web, auto entrepreneur, Freelance, PHP, CSS, Javascript, HTML, Responsive">
+    <meta name="description" content="Madi Fakih, entrepreneur et étudiant en développement web et web mobile à la plateforme_ Marseille">
+    <meta name="keywords" content="Madi Fakih, Développeur web, auto entrepreneur, Entrepreneur individuel, Freelance, PHP, CSS, Javascript, HTML, Responsive, SEO, Création de site web Marseille">
     <meta name="google-site-verification" content="_YzfoSFCFXlRkn7ouj3X2Z7E8cQy0CB8D92LGnG8SsU" />
+
     
 
     <!--====== Title ======-->
-    <title>Portfolio de Madi Fakih</title>
+    <title>Madi Fakih, entrepreneur et développeur web</title>
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
 
@@ -331,7 +332,7 @@
                         </div>
                         <div class="service-content">
                             <h4 class="service-title"><a href="#">Développement Web</a></h4>
-                            <p>Création de sites vitrines et de sites E-commerce.</p>
+                            <p>Création de sites web vitrines et de sites E-commerce.</p>
                         </div>
                     </div> <!-- single service -->
                 </div>
@@ -407,7 +408,7 @@
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">
-                                <h3 class="work-title">Boutique E-commerce (Projet laplateforme_)</h3>
+                                <h3 class="work-title">Boutique E-commerce (Projet laplateforme_ Marseille)</h3>
                                 <ul>
                                     <li><a class="image-popup" href="assets/images/work/w-1.png"><i class="lni-plus"></i></a></li>
                                     <li><a href="#"><i class="lni-link"></i></a></li>
@@ -439,7 +440,7 @@
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">
-                                <h3 class="work-title">Rugby Marseille XIII Avenir - Nouveau site (Projet en cours)</h3>
+                                <h3 class="work-title">Rugby Marseille XIII Avenir - Nouveau site (Projet pro laplateforme_ Marseille en cours de réalisation)</h3>
                                 <ul>
                                     <li><a class="image-popup" href="assets/images/work/w-3.png"><i class="lni-plus"></i></a></li>
                                     <li><a href="https://www.rugbymarseille.com/"><i class="lni-link"></i></a></li>
