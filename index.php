@@ -10,6 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Portfolio de Madi Fakih étudiant en développement web et web mobile à la plateforme_ Marseille">
     <meta name="keywords" content="Madi Fakih, Développeur web, auto entrepreneur, Freelance, PHP, CSS, Javascript, HTML, Responsive">
+    <meta name="google-site-verification" content="_YzfoSFCFXlRkn7ouj3X2Z7E8cQy0CB8D92LGnG8SsU" />
     
 
     <!--====== Title ======-->
