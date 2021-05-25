@@ -420,13 +420,13 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-work text-center mt-30">
                         <div class="work-image">
-                            <img src="assets/images/work/w-2.png" alt="Boutique Rugby Marseille XIII Avenir">
+                            <img src="assets/images/work/boutique-rugby-marseille-xiii-avenir.png" alt="Boutique Rugby Marseille XIII Avenir">
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">
                                 <h3 class="work-title">Boutique E-commerce Rugby Marseille XIII Venir</h3>
                                 <ul>
-                                    <li><a class="image-popup" href="assets/images/work/w-2.png"><i class="lni-plus"></i></a></li>
+                                    <li><a class="image-popup" href="assets/images/work/boutique-rugby-marseille-xiii-avenir.png"><i class="lni-plus"></i></a></li>
                                     <li><a href="https://boutique-rugbymarseille.fr/"><i class="lni-link"></i></a></li>
                                 </ul>
                             </div>
@@ -444,6 +444,22 @@
                                 <ul>
                                     <li><a class="image-popup" href="assets/images/work/w-3.png"><i class="lni-plus"></i></a></li>
                                     <li><a href="https://www.rugbymarseille.com/"><i class="lni-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> <!-- single work -->
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-work text-center mt-30">
+                        <div class="work-image">
+                            <img src="assets/images/work/site-eros-maillot.png" alt="Page de contact maillot eros sport">
+                        </div>
+                        <div class="work-overlay">
+                            <div class="work-content">
+                                <h3 class="work-title">Page contact Eros sport</h3>
+                                <ul>
+                                    <li><a class="image-popup" href="assets/images/work/site-eros-maillot.png"><i class="lni-plus"></i></a></li>
+                                    <li><a href="http://eros-sport.fr/"><i class="lni-link"></i></a></li>
                                 </ul>
                             </div>
                         </div>
